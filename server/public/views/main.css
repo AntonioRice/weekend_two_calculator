@@ -1,0 +1,64 @@
+body{
+max-width: 990px;
+background: linear-gradient(to right, #B5AC49, #3CA55C);
+}
+
+header{
+font-size: 50px;
+margin-left: 345px;
+}
+
+.container{
+position: fixed;
+top: 20%;
+left: 10px;
+margin: 40px;
+}
+
+#sign{
+height: 50px;
+width: 50px;
+font-size: 40px;
+
+display: inline-block;
+text-align: center;
+
+}
+
+.button{
+height: 50px;
+width: 50px;
+font-size: 40px;
+background-color: rgba(255,255,255,0.1);
+border: none;
+outline-color: green;
+
+}
+
+#submitButton, #resetButton{
+  font-size: 40px;
+  background-color: rgba(255,255,255,0.1);
+  border: none;
+  outline-color: green;
+}
+
+
+#input1, #input2{
+height: 100px;
+width: 110px;
+font-size: 40px;
+text-align: center;
+background-color: rgba(255,255,255,0.1);
+border: none;
+outline-color: green;
+
+}
+
+.result-field{
+
+font-size: 300px;
+text-align: center;
+flex: auto;
+margin-left: 410px;
+
+}
